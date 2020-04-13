@@ -1,3 +1,4 @@
 Contact: security@jack.lu
+Contact: https://twitter.com/iJackWilson
 Preferred-Languages: en
 Canonical: https://jack.lu/.well-known/security.txt
