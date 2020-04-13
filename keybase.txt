@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ijackwilson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jack.lu
+  * I am ijackwilson (https://keybase.io/ijackwilson) on keybase.
+  * I have a public key ASA2p9_oggRdA9ogQOe1PAsV_0jP6D8eT2yjXdeSbwV18go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cebe3e7d8e286761c1a4c57fc711e4afa875b8654c11acdba958791490d13c610a",
+      "host": "keybase.io",
+      "kid": "012036a7dfe882045d03da2040e7b53c0b15ff48cfe83f1e4f6ca35dd7926f0575f20a",
+      "uid": "68690d2bdb4e81a2ba2ccd844df8cc19",
+      "username": "ijackwilson"
+    },
+    "merkle_root": {
+      "ctime": 1586807078,
+      "hash": "0d4b1570f8d862a3c357ba841a3f53fc403bf1f9836ba964f77c169c50b794f3bed5a69af4ed4a6c234eed01a3674ab13ca776998453978cdf17250fa97f7b07",
+      "hash_meta": "a6e998e6a4f39eb047d5cc622e3f13f863a8969405f057d82f00edd65f00364c",
+      "seqno": 15907185
+    },
+    "service": {
+      "entropy": "sGPq5t3npgClAhgIlH8yX0Dp",
+      "hostname": "jack.lu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586807085,
+  "expire_in": 504576000,
+  "prev": "ed2a471367e03e99d1decd350bb4e81f79de81ac4a427b7995368cc4aa3b1fe5",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNqff6IIEXQPaIEDntTwLFf9Iz+g/Hk9so13Xkm8FdfIKp3BheWxvYWTESpcCCMQg7SpHE2fgPpnR3s01C7ToH3negaxKQnt5lTaMxKo7H+XEIHRb0b9GdKmohMBOjFXIAx+DWxRXvIUVOUT8WF+Vj9aUAgHCo3NpZ8RAkou4WXcKZgjYIum9Nje4Zr2y3eIHa/8WEXoKD6li2Uz2I7Te8C1sBdjDZm10CB855iEsM8yHYwkidkUTfJkwB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGvWP/C2DqRZbFEwmrHGb2HKp85tJMVVz+P9NQCmZAKfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ijackwilson
+
+==================================================================
